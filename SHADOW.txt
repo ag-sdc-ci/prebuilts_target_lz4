@@ -1,0 +1,6 @@
+shadow prebuilt repo: lz4 (target)
+  upstream: external/lz4
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.lz4.apex
+  dev-src: extracted extractive payload (liblz4.so, liblz4.a, lz4*.h headers, lz4/lz4c binaries) + root Android.bp
+  date: 2026-10-16

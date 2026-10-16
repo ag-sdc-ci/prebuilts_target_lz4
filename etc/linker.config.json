@@ -1,0 +1,27 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_liblz4.a-x86_64-v2.so",
+		    "libdummy_binary_liblz4.a.so",
+		    "libdummy_binary_lz4-x86_64-v2.so",
+		    "libdummy_binary_lz4.so",
+		    "libdummy_binary_lz4c-x86_64-v2.so",
+		    "libdummy_binary_lz4c.so",
+		    "libdummy_binary_lz4cat-x86_64-v2.so",
+		    "libdummy_binary_lz4cat.so",
+		    "libdummy_binary_unlz4-x86_64-v2.so",
+		    "libdummy_binary_unlz4.so",
+		    "libdummy_ext_lz4-x86_64-v2.so",
+		    "libdummy_ext_lz4.so",
+		    "libdummy_headers_ext_lz4-x86_64-v2.so",
+		    "libdummy_headers_ext_lz4.so",
+		    "libdummy_pkgconfig_ext_lz4-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_lz4.so",
+		    "liblz4-x86_64-v2.so.1",
+		    "liblz4.so.1"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so"
+	],
+	"visible": true
+}
